@@ -3,7 +3,10 @@
 ## Breif Description
 
 
-## Project Struture
+## Fetching the Files from the Repo
+
+git clone https://github.com/muneshreddyc/yolodetect.git
+cd yolodetect
 
 
 ## Execution Environment Setup
@@ -17,4 +20,5 @@ venv\Scripts\activate      # Windows
 
 3. Install project dependencies
     - pip install --upgrade pip
+
     - pip install -r requirements.txt
